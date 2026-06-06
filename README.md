@@ -13,13 +13,27 @@ Passionate about building scalable web applications, RESTful APIs, and database-
 </p>
 
 <p align="center">
+
   <a href="https://www.linkedin.com/in/mohamed-elsayed-432624297/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://www.facebook.com/mohamed.m.elsayed.560336?locale=ar_AR">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://wa.me/201102555900">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 
   <a href="https://elzero.org/">
-    <img src="https://img.shields.io/badge/Elzero-Web%20School-orange?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Learning-Elzero%20Web%20School-orange?style=for-the-badge&logo=bookstack">
   </a>
+
 </p>
 ---
 

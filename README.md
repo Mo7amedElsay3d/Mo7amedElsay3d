@@ -12,6 +12,15 @@ Passionate about building scalable web applications, RESTful APIs, and database-
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-elsayed-432624297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://elzero.org/">
+    <img src="https://img.shields.io/badge/Elzero-Web%20School-orange?style=for-the-badge">
+  </a>
+</p>
 ---
 
 ## 👨‍💻 About Me
